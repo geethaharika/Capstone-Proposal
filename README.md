@@ -24,9 +24,15 @@ Target: This is our target variable
 #References
 
 •	https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+
 • https://machinelearningmastery.com/logistic-regression-for-machine-learning/ 
+
 • https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f 
+
 •	http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html 
+
 •	http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html 
+
 •	http://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html 
+
 • http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
