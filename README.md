@@ -23,16 +23,18 @@ Target: This is our target variable
 
 #References
 
-•	https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
+1.	https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
 
-• https://machinelearningmastery.com/logistic-regression-for-machine-learning/ 
+2.	https://machinelearningmastery.com/logistic-regression-for-machine-learning/ 
 
-• https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f 
+3.	http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html 
 
-•	http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html 
+4.	http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
-•	http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html 
+5.	http://dataaspirant.com/2017/03/02/how-logistic-regression-model-works/
 
-•	http://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html 
+6.	http://people.revoledu.com/kardi/tutorial/KNN/HowTo_KNN.html
 
-• http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+7.	http://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/
+
+8.	https://machinelearningmastery.com/boosting-and-adaboost-for-machine-learning/
